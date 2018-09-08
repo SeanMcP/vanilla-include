@@ -1,0 +1,17 @@
+{
+    "name": "vanilla-include",
+    "vesion": "1.0.0",
+    "description": "A JavaScript implementation of php's include function for HTML templating.",
+    "license": "MIT",
+    "repository": "seanmcp/vanilla-include",
+    "homepage": "https://github.com/seanmcp/vanilla-include#readme",
+    "bugs": "https://github.com/seanmcp/vanilla-include/issues",
+    "main": "index.js",
+    "author": "Sean McPherson <seanmcp25@gmail.com> (https://github.com/seanmcp)",
+    "keywords": [
+        "javascript",
+        "include",
+        "html",
+        "template"
+    ]
+}
