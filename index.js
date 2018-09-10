@@ -1,15 +1,17 @@
-const include = () => {
+function include() {
     document.querySelectorAll('*[data-include]')
-        .forEach(node => {
+        .forEach(function(node) {
             node.style.display = 'none'
-            fetch(not.attributes['data-include'].value)
-                .then(res => {
+            fetch(node.attributes['data-include'].value)
+                .then(function(res) {
                     if (res.ok)
                         return res.text()
                     else
                         throw Error
                 })
-                .then(data => node.outerHTML = data)
+                .then(function(data) {
+                    node.outerHTML = data
+                })
         })
 }
 
