@@ -1,6 +1,6 @@
 {
     "name": "vanilla-include",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A JavaScript implementation of php's include function for HTML templating.",
     "license": "MIT",
     "repository": "seanmcp/vanilla-include",
