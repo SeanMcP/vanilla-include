@@ -7,6 +7,7 @@
     "homepage": "https://github.com/seanmcp/vanilla-include#readme",
     "bugs": "https://github.com/seanmcp/vanilla-include/issues",
     "main": "index.js",
+    "unpkg": "vanilla-include.min.js",
     "author": "Sean McPherson <seanmcp25@gmail.com> (https://github.com/seanmcp)",
     "keywords": [
         "javascript",

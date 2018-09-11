@@ -8,10 +8,16 @@ php's `include` function is incredibly useful for simple HTML templating. This l
 
 ## Install
 
+Get CDN from [UNPKG](https://unpkg.com):
+
+```
+<script src="https://unpkg.com/vanilla-include"></script>
+```
+
 Install via npm or yarn:
 
 ```sh
-npm i vanilla-include
+npm install --save vanilla-include
 
 # or
 
