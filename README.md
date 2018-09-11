@@ -30,7 +30,7 @@ yarn add vanilla-include
 
 When your document loads, `vanilla-include` will look for all elements that have a `data-include` attribute and **replace** them with the target HTML file.
 
-1. Create your file to include
+#### 1. Create your file to include
 
 ```
 <!-- path/to/file.html -->
@@ -38,7 +38,7 @@ When your document loads, `vanilla-include` will look for all elements that have
 <h1>Hello from vanilla-include!</h1>
 ```
 
-2. Add `vanilla-include` and refer to file with `data-include` attribute
+#### 2. Add `vanilla-include` and refer to file with `data-include` attribute
 
 ```
 <!-- index.html -->
@@ -50,7 +50,7 @@ When your document loads, `vanilla-include` will look for all elements that have
 <script src="vanilla-include.min.js"></script>
 ```
 
-3. Voila!
+#### 3. Voila!
 
 `index.html` will render like so:
 
@@ -70,4 +70,4 @@ Should the resource fail to load, `vanilla-include` will fail "silently" by sett
 
 ## License
 
-[MIT](/LICENSE)
+[MIT](https://github.com/seanmcp/vanilla-include/blob/master/LICENSE)
