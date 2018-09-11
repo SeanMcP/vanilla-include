@@ -1,6 +1,6 @@
 # vanilla-include
 
-[![npm](https://img.shields.io/npm/v/vanilla-include.svg)](https://npmjs.com/package/vanilla-include) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/vanilla-include.svg)](https://npmjs.com/package/vanilla-include) [![npm](https://img.shields.io/npm/dt/vanilla-include.svg)](https://www.npmjs.com/package/vanilla-include)
+[![npm](https://img.shields.io/npm/v/vanilla-include.svg)](https://npmjs.com/package/vanilla-include) [![npm bundle size (minified)](https://img.shields.io/bundlephobia/min/vanilla-include.svg)](https://npmjs.com/package/vanilla-include) [![npm](https://img.shields.io/npm/dt/vanilla-include.svg)](https://npmjs.com/package/vanilla-include)
 
 A JavaScript implementation of php's include function for HTML templating.
 
